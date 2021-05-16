@@ -4,4 +4,4 @@ In the spirit of the upcoming 2020 Olympic games in Japan, this final project se
 
 Hypothesis testing and Machine learning methods were used to gain insights on the data.
 
-Please refer to Final.html or Final.ipynb for the results.
+Please refer to Final.html or Final.ipynb for the report/results.
